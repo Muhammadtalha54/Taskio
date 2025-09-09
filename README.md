@@ -1,6 +1,6 @@
-# Taskify
+# Taskio
 
-Taskify is a modern, animated ToDo app built with Flutter. It allows users to efficiently manage tasks, schedule them on specific dates, and receive alarms that ring until acknowledged. Designed with a responsive calendar and neumorphic UI, Taskify combines productivity with a sleek, interactive interface.
+Taskio is a modern, animated ToDo app built with Flutter. It allows users to efficiently manage tasks, schedule them on specific dates, and receive alarms that ring until acknowledged. Designed with a responsive calendar and neumorphic UI, Taskio combines productivity with a sleek, interactive interface.
 
 ---
 
@@ -27,4 +27,4 @@ Taskify is a modern, animated ToDo app built with Flutter. It allows users to ef
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Taskify.git
+git clone https://github.com/yourusername/Taskio.git
