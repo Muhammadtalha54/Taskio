@@ -16,10 +16,9 @@ Taskify is a modern, animated ToDo app built with Flutter. It allows users to ef
 - Provider-based state management for reactive UI.
 
 ---
+## **ScreenShots**
+<img width="832" height="562" alt="image" src="https://github.com/user-attachments/assets/9c8c436a-70c3-4124-8e78-da37cc3104a3" />
 
-## **Screenshots**
-
-*(Add screenshots here)*
 
 ---
 
